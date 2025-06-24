@@ -4,11 +4,9 @@
 
 ---
 
-## 🧑‍💻 About Me
-
-- 💡 Passionate about **backend development**.
-- 🚀 Currently learning and exploring **Node.js**, **C++**, **SQL**, and **modern backend architecture**.
-
+## Introduction
+-  Passionate about ....
+  
 ---
 
 ## 📌 Goals
@@ -22,6 +20,6 @@
 ## 📫 Contact information
 
 - 📧 Email: *nhatduong01012005@gmail.com*
-- 🌐 GitHub: [github.com/trannhatduong](https://github.com/trannhatduong)
+- 🌐 GitHub: [github.com/TrNhDuong](https://github.com/TrNhDuong)
 
 
