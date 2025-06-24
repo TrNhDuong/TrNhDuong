@@ -21,7 +21,7 @@
 
 ## 📫 Contact information
 
-- 📧 Email: *your-email@example.com* <nhatduong01012005@gmail.com>
+- 📧 Email: *nhatduong01012005@gmail.com*
 - 🌐 GitHub: [github.com/trannhatduong](https://github.com/trannhatduong)
 
 
