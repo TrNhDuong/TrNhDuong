@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Hello! I'm Trần Nhật Dương
 
-<!--
-**TrNhDuong/TrNhDuong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a student at **University of Science, VNU-HCM (HCMUS)**, class of **2023–2027**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧑‍💻 About Me
+
+- 💡 Passionate about **backend development**.
+- 🚀 Currently learning and exploring **Node.js**, **C++**, **SQL**, and **modern backend architecture**.
+
+---
+
+## 📌 Goals
+
+- 🎯 Become a professional **backend engineer**.
+- 🛠 Contribute to open-source projects and collaborate with developers worldwide.
+- 🌱 Continuously grow in software engineering, from fundamentals to advanced systems.
+
+---
+
+## 📫 Contact information
+
+- 📧 Email: *your-email@example.com* <nhatduong01012005@gmail.com>
+- 🌐 GitHub: [github.com/trannhatduong](https://github.com/trannhatduong)
+
+
