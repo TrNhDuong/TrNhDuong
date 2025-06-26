@@ -11,9 +11,7 @@
 
 ## 📌 Goals
 
-- 🎯 Become a professional **backend engineer**.
-- 🛠 Contribute to open-source projects and collaborate with developers worldwide.
-- 🌱 Continuously grow in software engineering, from fundamentals to advanced systems.
+- 🎯 Become a professional **engineer**.
 
 ---
 
