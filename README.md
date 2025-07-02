@@ -1,9 +1,8 @@
-# 👋 Hello! I'm Trần Nhật Dương
+# Hello! I'm Trần Nhật Dương
 
-## Introduction
-I'm currently a student of **University of Science, VNU-HCM (HCMUS)**, class of **2023–2027**.
-My short term goal is to be choosen in major field Computer Science of Information Technology Faculty.
----
+## 👨‍💻 Introduction
+
+I'm currently a student of University of Science, HCMC class 2023 - 2027.
 ## 📌 Goals
 🎯 Become a professional **engineer**.
 ---
@@ -16,9 +15,9 @@ My short term goal is to be choosen in major field Computer Science of Informati
 
   <!-- Tools & Frameworks -->
 
-  <img src="https://img.shields.io/badge/Git-282C34?logo=git&logoColor=F05032" height="25" />
-  
+  <img src="https://img.shields.io/badge/Git-282C34?logo=git&logoColor=F05032" height="25" /> 
 </p>
+
 
 ## 📫 Contact information
 
