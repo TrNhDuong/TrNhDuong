@@ -12,7 +12,14 @@ My short term goal is to be choosen in major field Computer Science of Informati
 
 ## 📫 Contact information
 
-[Facebook](https://www.facebook.com/trannhat.duowng)
-[GitHub](https://github.com/TrNhDuong)
+<p align="center">
+  <a href="https://www.facebook.com/trannhat.duowng/" target="_blank">
+    <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="Facebook" />
+  </a>
+  <a href="mailto:nhatduong01012005@gmail.com" target="_blank">
+    <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="Email" />
+  </a>
+  
+</p>
 
 
