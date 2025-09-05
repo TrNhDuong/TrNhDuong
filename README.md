@@ -4,7 +4,7 @@
 
 I'm currently a student of University of Science, HCMC class 2023 - 2027.
 ## 🎯 Goals
-  Become a professional **backend engineer**.
+  Become professional in Web and Data.
 
 ## 🛠 Technologies and Tools
 <p align="center">
